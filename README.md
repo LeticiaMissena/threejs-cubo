@@ -53,8 +53,8 @@ A arquitetura do sistema baseia-se em três componentes fundamentais:
 Siga os passos abaixo para rodar a aplicação em sua máquina local:
 
 1. **Clonar o Repositório** Abra o terminal (ou CMD) e utilize o comando para baixar os arquivos:
-   ```bash
-   git clone (https://github.com/LeticiaMissena/threejs-cubo.git)
+   
+   git clone  (https://github.com/LeticiaMissena/threejs-cubo)
 
 2.  **Acessar a Pasta Entre no diretório que foi criado após o clone**:
  `cd threejs-cubo`
